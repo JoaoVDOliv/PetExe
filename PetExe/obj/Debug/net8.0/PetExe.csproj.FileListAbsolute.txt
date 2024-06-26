@@ -1,0 +1,14 @@
+C:\Users\olivd\Desktop\Projects\PetExe\PetExe\bin\Debug\net8.0\PetExe.exe
+C:\Users\olivd\Desktop\Projects\PetExe\PetExe\bin\Debug\net8.0\PetExe.deps.json
+C:\Users\olivd\Desktop\Projects\PetExe\PetExe\bin\Debug\net8.0\PetExe.runtimeconfig.json
+C:\Users\olivd\Desktop\Projects\PetExe\PetExe\bin\Debug\net8.0\PetExe.dll
+C:\Users\olivd\Desktop\Projects\PetExe\PetExe\bin\Debug\net8.0\PetExe.pdb
+C:\Users\olivd\Desktop\Projects\PetExe\PetExe\obj\Debug\net8.0\PetExe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olivd\Desktop\Projects\PetExe\PetExe\obj\Debug\net8.0\PetExe.AssemblyInfoInputs.cache
+C:\Users\olivd\Desktop\Projects\PetExe\PetExe\obj\Debug\net8.0\PetExe.AssemblyInfo.cs
+C:\Users\olivd\Desktop\Projects\PetExe\PetExe\obj\Debug\net8.0\PetExe.csproj.CoreCompileInputs.cache
+C:\Users\olivd\Desktop\Projects\PetExe\PetExe\obj\Debug\net8.0\PetExe.dll
+C:\Users\olivd\Desktop\Projects\PetExe\PetExe\obj\Debug\net8.0\refint\PetExe.dll
+C:\Users\olivd\Desktop\Projects\PetExe\PetExe\obj\Debug\net8.0\PetExe.pdb
+C:\Users\olivd\Desktop\Projects\PetExe\PetExe\obj\Debug\net8.0\PetExe.genruntimeconfig.cache
+C:\Users\olivd\Desktop\Projects\PetExe\PetExe\obj\Debug\net8.0\ref\PetExe.dll
